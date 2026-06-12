@@ -1,5 +1,7 @@
-Plaintext
 streamlit
+folium
+streamlit-folium
+requestsstreamlit
 folium
 streamlit-folium
 requests
