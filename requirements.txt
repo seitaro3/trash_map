@@ -1,0 +1,5 @@
+Plaintext
+streamlit
+folium
+streamlit-folium
+requests
